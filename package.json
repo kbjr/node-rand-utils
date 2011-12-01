@@ -1,0 +1,14 @@
+{
+  "author": "James Brumond <kbjr14@gmail.com> (http://www.jbrumond.me)",
+  "name": "rand",
+  "description": "A randomization module",
+  "version": "0.0.1",
+  "repository": {
+    "url": ""
+  },
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
