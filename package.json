@@ -6,7 +6,7 @@
   "main": "lib/rand.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/kbjr/node-rand-utils"
+    "url": "git://github.com/kbjr/node-rand-utils.git"
   },
   "engines": {
     "node": "*"
