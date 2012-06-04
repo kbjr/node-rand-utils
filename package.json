@@ -1,10 +1,12 @@
 {
   "author": "James Brumond <kbjr14@gmail.com> (http://www.jbrumond.me)",
-  "name": "rand",
-  "description": "A randomization module",
+  "name": "rand-utils",
+  "description": "A randomization utilities module",
   "version": "0.0.1",
+  "main": "lib/rand.js",
   "repository": {
-    "url": ""
+    "type": "git",
+    "url": "git://github.com/kbjr/node-rand-utils"
   },
   "engines": {
     "node": "*"
