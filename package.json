@@ -2,14 +2,14 @@
   "author": "James Brumond <kbjr14@gmail.com> (http://www.jbrumond.me)",
   "name": "rand-utils",
   "description": "A randomization utilities module",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "main": "lib/rand.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/kbjr/node-rand-utils.git"
   },
   "engines": {
-    "node": "*"
+    "node": ">=4.0.0"
   },
   "dependencies": {},
   "devDependencies": {}
